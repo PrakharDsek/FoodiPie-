@@ -33,7 +33,7 @@ import { setUserData } from "./Redux/User";
 import Success from "./Pages/success";
 
 function App() {
-  const backendUrl = "http://localhost:3000/api/v1";
+  const backendUrl = "https://foodiepieback.onrender.com/api/v1";
   const navigateTo = useNavigate();
   const dispatch = useDispatch();
   const cookie = Cookies.get("token");
