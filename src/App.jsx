@@ -17,7 +17,7 @@ import Orders from "./Pages/Orders";
 import SellFoodForm from "./Pages/Seller/EntryPoint";
 import Allitems from "./Pages/Seller/AllItems";
 import UpdateItem from "./Pages/Seller/UpdateItem";
-import AddItems from "./Pages/Seller/AddItems";
+import AddItems from "./Pages/Seller/Additems";
 import ItemForm from "./Components/ItemsForm";
 import DeleteItem from "./Pages/Seller/DeleteItem";
 import OrdersPlaced from "./Pages/Seller/OrdersPlaced";
