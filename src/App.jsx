@@ -15,7 +15,7 @@ import Payments from "./Pages/Payments";
 import Account from "./Pages/Account";
 import Orders from "./Pages/Orders";
 import SellFoodForm from "./Pages/Seller/EntryPoint";
-import Allitems from "./Pages/Seller/AllItems";
+import Allitems from "./Pages/Seller/Allitems";
 import UpdateItem from "./Pages/Seller/UpdateItem";
 import AddItems from "./Pages/Seller/Additems";
 import ItemForm from "./Components/ItemsForm";
