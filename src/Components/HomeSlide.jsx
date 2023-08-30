@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import videoFile from "../assets/FoodPie.mp4";
+import videoFile from "../assets/foodPie.mp4";
 
 const HomeSlide = () => {
   return (
