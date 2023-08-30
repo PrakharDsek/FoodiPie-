@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Dosis:wght@300&family=Kanit:wght@200&family=Nunito+Sans:wght@300&family=Quicksand&family=Righteous&family=Roboto:ital,wght@0,300;1,300&display=swap');
+
+:root {
+ --primary-font:'Cinzel', serif;
+ --secondary-font:'Dosis', sans-serif;
+ --kanti-font:'Kanit', sans-serif;
+ --sans-font:'Nunito Sans', sans-serif;
+ --quick-font: 'Quicksand', sans-serif;
+ --slow-font:'Righteous', cursive;
+ --roboto-font:'Roboto', sans-serif;
+ --Header-bg: #dcac55;
+ --theme:#baaa1beb;
+}
+
+body{
+  background-color: #c4c3c0;
+  font-family: var(--primary-font);
+  margin: 0;
+  user-select: none;
+  overflow-x: hidden;
+}
