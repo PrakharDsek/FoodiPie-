@@ -9,7 +9,7 @@ import Inputfile from "./Inputfile";
 import { StyledBtns } from "../Pages/Cart";
 import { motion } from "framer-motion";
 import { useSelector } from "react-redux";
-import Spinner from "../components/Spinner";
+import Spinner from "../Components/Spinner";
 import axios from "axios";
 import Notify from "../Utils/NotificationSystem";
 import { useParams } from "react-router-dom";
